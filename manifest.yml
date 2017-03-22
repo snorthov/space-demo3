@@ -1,10 +1,9 @@
 applications:
 - disk_quota: 1024M
-  host: space-demo2
-  name: space-demo2
+  host: space-demo3
+  name: space-demo3
   command: node server.js
   path: .
   domain: mybluemix.net
   instances: 1
   memory: 512M
-  
